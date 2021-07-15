@@ -1,1 +1,5 @@
-from robots_vs_dinosaurs import 
+from robot import Robot
+
+player_one = Robot("Hank")
+print(player_one)
+
